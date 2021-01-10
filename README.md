@@ -1,1 +1,1 @@
-# projects
+# capstone_projects
